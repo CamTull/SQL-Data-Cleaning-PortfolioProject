@@ -1,8 +1,10 @@
+SELECT *
+FROM PortfolioProject_HouseCleaning.dbo.NashvilleHousing
+
 -- Cleaning Data in SQL Queries
 --------------------------------------------------------------------------
 
-SELECT *
-FROM PortfolioProject_HouseCleaning.dbo.NashvilleHousing
+
 
 -- Standardize/Change Sale Date Format
 --------------------------------------
