@@ -1,5 +1,5 @@
 # SQL-Data-Cleaning-PortfolioProject
-Data cleaning portfolio project using 'dirty' Nashville Housing data.
+SQL Data cleaning portfolio project using 'dirty' Nashville Housing data.
 
 Key concepts include:
 
